@@ -8,7 +8,9 @@
 </head>
 <body>
 
-<a href="php-snacks-s1.php?word=scrivi" >LINK</a>
+<a href="snack2.php">LINK 2</a>
+
+<a href="snack1.php">LINK 1</a>
     
 </body>
 </html>
